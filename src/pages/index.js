@@ -123,7 +123,7 @@ const IndexPage = () => {
 			<h1 style={headingStyles}>
 				Github Actions TP
 				<br />
-				<span style={headingAccentStyles}>— Site en ligne 🎉🎉🎉</span>
+				<span style={headingAccentStyles}>— Site en ligne grâce à Github Actions🎉🎉🎉</span>
 			</h1>
 			<p style={paragraphStyles}>
 				Edit <code style={codeStyles}>src/pages/index.js</code> to see this page update in real-time. 😎
